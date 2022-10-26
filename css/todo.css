@@ -249,6 +249,10 @@
     .todo{
         width: 92%;
     }
+    
+    .horizontal-line{
+        width: 92%;
+    }
 
     .text{
         margin-right: 0.8rem;
